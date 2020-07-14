@@ -30,7 +30,14 @@ fork*. Please contact the original author for any questions.
 **Switch to branch [`release-08`](https://github.com/loveencounterflow/fuse-zip-git/tree/release-0.8)
 to see the code.**
 
+**Installation** Refer to file
+[`INSTALL`](https://github.com/loveencounterflow/fuse-zip-git/blob/release-0.8/INSTALL). On Ubuntu-like
+systems you will need at least `sudo apt install fuse libfuse-dev libzip-dev` before you can `make release`.
+An older version of `fuse-zip` (0.4.4 as of this writing) is available as `sudo apt install fuse-zip`.
 
+
+<hr>
+(Content of original readme below)
 <hr>
 
 # ABOUT #
